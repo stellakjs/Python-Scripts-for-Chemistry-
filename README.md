@@ -1,6 +1,6 @@
 # Python-Scripts-for-Chemistry-
 Python Scripts to solve Chemistry values by using data collected in lab 
-**Experiments Table of Contents **
+# Experiments Table of Contents 
 1. A Colorimetric Determination of Aspirin in Commercial Preparations
 2. Measuring the Vapor Pressure of a Volatile Liquid
 3. Determination of Molar Mass by Freezing Point Depression
